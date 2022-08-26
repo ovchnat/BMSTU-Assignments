@@ -25,4 +25,4 @@
 
 [Задание](https://github.com/ovchnat/BMSTU-Assignments/blob/master/A3%20Homework/A3_Task.md).
 
-[Решение Jupyter](https://github.com/ovchnat/BMSTU-Assignments/blob/master/A3%20Homework/A3_IU21_Ovchinnikova_3.ipynb)
+[Решение Jupyter](https://github.com/ovchnat/BMSTU-Assignments/blob/master/A3%20Homework/A3_IU21_Ovchinnikova_3.ipynb).
